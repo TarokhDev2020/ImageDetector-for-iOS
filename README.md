@@ -1,5 +1,5 @@
 # ImageDetector-for-iOS
-Detect images and objects with CoreML
+Detect images and objects with Core ML
 
 ## Installation ##
 * Git and clone <br/>
